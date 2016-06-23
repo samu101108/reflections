@@ -1,0 +1,11 @@
+How do the diagrams help you visualize the branch structure?
+	Helped a lot, bacause there was a clear representation of what is a branch.
+	
+	What is the result of merging two branches together? 
+	Why do we represent it in the diagram the way we do?
+		The two branch become only one with all commits. To make it 
+		easier to understand.
+		
+	
+		
+		
